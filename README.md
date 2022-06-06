@@ -6,7 +6,7 @@
 
 ## 📫 How to reach me 
      - Email: calle.l.hoglund@gmail.com
-     - LinkedIn: [link](https://www.linkedin.com/in/calle-h%C3%B6glund-604a8a23b/)
+     - LinkedIn: https://www.linkedin.com/in/calle-h%C3%B6glund-604a8a23b
 
 ## My projects 
 
