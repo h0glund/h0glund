@@ -1,7 +1,7 @@
 ## Hello!
 
 - 🔭 I’m currently studying at KYH in Stockholm, Sweden...
-- 🌱 I’m currently learning App Development for iOS and Android
+- 🌱 I’m currently learning App Development for iOS and Android...
 - 👯 I’m looking for internship starting October 2022...
 
 ## 📫 How to reach me 
@@ -26,10 +26,6 @@
 
      A messenger app using Firebase to communicate with users.
 
-and more tiny projects...
 
-<!--
-**h0glund/h0glund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+and more projects...
 
-
--->
