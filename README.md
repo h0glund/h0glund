@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning App Development for iOS and Android
 - 👯 I’m looking for internship starting October 2022...
 
-- 📫 How to reach me: 
+## - 📫 How to reach me: 
      - Email: calle.l.hoglund@gmail.com
      - LinkedIn: [link](https://www.linkedin.com/in/calle-h%C3%B6glund-604a8a23b/)
 
-My projects: 
+## My projects: 
 
 - :package:[Pong](https://github.com/karol-oman/pong)
 
