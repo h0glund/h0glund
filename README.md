@@ -11,9 +11,8 @@ Hello!
      - LinkedIn: https://www.linkedin.com/in/calle-h%C3%B6glund-604a8a23b/
 
 My projects: 
+- :package: 
 
 <!--
 **h0glund/h0glund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 -->
