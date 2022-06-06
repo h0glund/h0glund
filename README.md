@@ -5,7 +5,7 @@
 - 👯 I’m looking for internship starting October 2022...
 
 ## 📫 How to reach me 
-     - :e-mail: calle.l.hoglund@gmail.com
+- :e-mail: calle.l.hoglund@gmail.com
      
 
 ## My projects 
