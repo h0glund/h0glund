@@ -13,8 +13,7 @@ My projects:
 - :package: Pong
      [link](https://github.com/karol-oman/pong)
      A classic Pong game created in Android Studio using build in Canvas to build the game. Everything created from scratch (UI, Physics)
-- :package: BomberJack
-     [link](https://github.com/LucaSalmi/BomberMan)
+- :package: [BomberJack](https://github.com/LucaSalmi/BomberMan)
      A 2d game for IOS created using SwiftUI and SpriteKit with an internal database for data management.
 - :package: Mad TD 
      [link](https://github.com/LucaSalmi/MadDoctorTD)
