@@ -5,7 +5,7 @@
 - 👯 I’m looking for internship starting October 2022...
 
 ## 📫 How to reach me 
-- :e-mail: calle.l.hoglund@gmail.com
+- :e-mail: callelhoglund@gmail.com
 - :raising_hand_man: [LinkedIn](https://www.linkedin.com/in/calle-h%C3%B6glund-604a8a23b/)    
 
 ## My projects 
